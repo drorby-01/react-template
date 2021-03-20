@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import AppNav from './NavBar/AppNav';
-import { Router } from './router/router';
+import { Router } from './router/Router';
 
 
 function App() {
